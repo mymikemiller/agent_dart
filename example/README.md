@@ -11,7 +11,7 @@ For more complex examples, please stay tuned, we will update the README of the r
    Follow instructions here:
    [https://github.com/MioQuispe/create-ic-app#get-started](https://github.com/MioQuispe/create-ic-app#get-started)
 
-   It will runs a example `counter` canister on your machine. 
+   It will run an example `counter` canister on your machine. 
 
    **The counter function is included `caller`, the authorization won't make difference** 
 
